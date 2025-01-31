@@ -1,5 +1,11 @@
 # Crypt-US
 
+!!!!!!!!!!!!!!!!!!!!                Desactive Windows Definder                !!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
 
 Password WinRar : retchX
 
